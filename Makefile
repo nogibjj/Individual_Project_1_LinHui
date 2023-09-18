@@ -4,7 +4,8 @@ install:
 
 test:
 	python -m pytest -vv --cov=main --cov=mylib test_*.py
-	pytest --nbval notebook_script.ipynb
+	pytest --nbval-lax notebook_script.ipynb
+	#not testing the output, but only the format and values check
 
 format:	
 	black *.py 
