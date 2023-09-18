@@ -1,4 +1,9 @@
 import mylib.lib as lib
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import os
+
 
 def test_pd_read_csv_backfill():
     # Create a test CSV file
@@ -24,5 +29,4 @@ def test_plot_open_price():
     data = {'Open': [1, 2, 3, 4, 5]}
     df = pd.DataFrame(data)
     lib.plot_open_price(df, save=True)
-    import os
     assert os.path.exists('Open price figure.png')
