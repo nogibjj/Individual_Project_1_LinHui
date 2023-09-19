@@ -1,4 +1,5 @@
 [![CI](https://github.com/nogibjj/Individual_Project_1_LinHui/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Individual_Project_1_LinHui/actions/workflows/cicd.yml)
+![Tests](https://github.com/nogibjj/Individual_Project_1_LinHui/workflows/lint/badge.svg)
 
 # Individual Project 1 IDS 760
 
