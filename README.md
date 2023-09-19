@@ -1,4 +1,8 @@
-[![CI](https://github.com/nogibjj/Individual_Project_1_LinHui/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Individual_Project_1_LinHui/actions/workflows/cicd.yml)
+[![Install](https://github.com/nogibjj/Individual_Project_1_LinHui/actions/workflows/Install.yml/badge.svg)](https://github.com/nogibjj/Individual_Project_1_LinHui/actions/workflows/Install.yml)
+[![Format](https://github.com/nogibjj/Individual_Project_1_LinHui/actions/workflows/Format.yml/badge.svg)](https://github.com/nogibjj/Individual_Project_1_LinHui/actions/workflows/Format.yml)
+[![Lint](https://github.com/nogibjj/Individual_Project_1_LinHui/actions/workflows/Lint.yml/badge.svg)](https://github.com/nogibjj/Individual_Project_1_LinHui/actions/workflows/Lint.yml)
+[![Test](https://github.com/nogibjj/Individual_Project_1_LinHui/actions/workflows/Test.yml/badge.svg)](https://github.com/nogibjj/Individual_Project_1_LinHui/actions/workflows/Test.yml)
+
 
 # Individual Project 1 IDS 760
 
@@ -38,6 +42,7 @@ This individual project includes
 
 https://www.youtube.com/watch?v=yY53HjRepr4
 
+P.S. I updated the Github action workflow, and it's now displaying four different badges. Please ignore the one shown in the demo video.
 
 
 
