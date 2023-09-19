@@ -1,3 +1,5 @@
+[![CI](https://github.com/nogibjj/Individual_Project_1_LinHui/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Individual_Project_1_LinHui/actions/workflows/cicd.yml)
+
 # Individual Project 1 IDS 760
 
 This individual project includes 
@@ -30,6 +32,7 @@ This individual project includes
 - Volumn: Mean = 69482141.2, Median = 64624600, Std = 24118947.76
 
 ## AAPL stock price change over the year
+![Open price figure](https://github.com/nogibjj/Individual_Project_1_LinHui/assets/83142133/bae8b869-bd66-4a44-8c54-d6958688f31b)
 
 
 
