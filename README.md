@@ -34,6 +34,9 @@ This individual project includes
 ## AAPL stock price change over the year
 ![Open price figure](https://github.com/nogibjj/Individual_Project_1_LinHui/assets/83142133/bae8b869-bd66-4a44-8c54-d6958688f31b)
 
+## Demo video
+
+https://www.youtube.com/watch?v=yY53HjRepr4
 
 
 
