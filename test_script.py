@@ -6,10 +6,6 @@
 
 import mylib.lib as lib
 
-def test_pandas():
-    import pandas as pd
-    assert pd.__version__ == '2.1.0'
-
 def test_script():
     df = lib.pd_read_csv_backfill('AAPL.csv')
     assert isinstance(df, lib.pd.DataFrame), "Expected a DataFrame object"

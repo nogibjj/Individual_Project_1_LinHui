@@ -1,4 +1,15 @@
-# Mini Project 2 IDS 760
+# Individual Project 1 IDS 760
+
+This individual project includes 
+- Python script performing descriptive statistics using Pandas
+- Jupyter notebook that performs the same descriptive statistics
+- lib.py file that shares the common code between the script and notebook
+- Makefile with tests, format, lint, installation of dependencies
+- test_script.py to test script
+- test_lib.py to test library
+- nbval plugin for pytest in the Jupyter notebook
+- Pinned requirements.txt
+- CI via github actions with yml file
 
 ## Dataset: Apple’s stock price in the past year. It contains:
 
@@ -21,7 +32,7 @@
 ## AAPL stock price change over the year
 
 
-## This template comes from my previous project, which can be found on linhui7's repo.
+
 
 
 

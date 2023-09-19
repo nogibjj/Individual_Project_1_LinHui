@@ -10,10 +10,8 @@ def test_pd_read_csv_backfill():
         f.write(test_data)
 
     df = lib.pd_read_csv_backfill('test.csv')
-    assert df['A'].isnull().sum() == 0, \
-    f"Expected 0 NaN in column A, got {df['A'].isnull().sum()}"
-    assert df['B'].isnull().sum() == 0, \
-    f"Expected 0 NaN in column B, got {df['B'].isnull().sum()}"
+    assert df['A'].isnull().sum() == 0
+    assert df['B'].isnull().sum() == 0
 
 def test_pd_summary_stats():
     data = {'A': [1, 2, 3, 4, 5], 'B': [6, 7, 8, 9, 10]}
